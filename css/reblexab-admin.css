@@ -1,0 +1,57 @@
+.post-type-abtesting #submitdiv.postbox,
+#abtesting-metaboxes .postbox-header,
+#poststuff #abtesting-metaboxes button.handlediv,
+#poststuff #abtesting-metaboxes h2.hndle {
+	display: none;
+}
+
+.wp-core-ui select.disabled,
+.wp-core-ui select:disabled,
+.wp-core-ui select.disabled,
+.wp-core-ui select:disabled {
+	color: #555 !important;
+	background-image: none;
+}
+
+.reblexab_external .dashicons-external {
+	position: relative;
+	top: 4px;
+	font-size: 1.2em;
+	text-decoration: none;
+}
+
+.post-type-abtesting #poststuff h2 {
+	padding-top: 1em;
+	padding-left: 0;
+	font-size: 2.4em;
+}
+
+.reblexab_stats_winner {
+	text-align: center;
+	font-size: 2em;
+}
+
+.reblexab_stats_winner .winner_block_a {
+	color: rgba( 255, 52, 117, 0.7 );
+}
+
+.reblexab_stats_winner .winner_block_b {
+	color: rgba( 51, 153, 204, 0.7 );
+}
+
+.reblexab_stats_wrapper_table tr th,
+.reblexab_stats_wrapper_table tr td {
+	padding-left: 1em;
+}
+
+.reblexab_stats_wrapper_charts.widefat {
+	border: 0 none;
+}
+
+.reblexab_stats_wrapper_charts td {
+	width: 50%;
+}
+
+.reblexab_stats_wrapper_charts td canvas {
+	width: 100%;
+}
